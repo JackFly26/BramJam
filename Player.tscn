@@ -10,7 +10,6 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
-jump_power = -20
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 scale = Vector2( 3, 3 )
