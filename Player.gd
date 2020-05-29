@@ -9,10 +9,6 @@ const ground_friction = .1
 const gravity = 512
 const jump_power = -256
 
-# Declare member variables here. Examples:
-# var a = 2
-# var b = "text"
-
 
 func _physics_process(delta):
 	var prefix
